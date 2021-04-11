@@ -1,4 +1,4 @@
-// +build !nacl,!plan9
+// +build !nacl,!plan9,!windows
 
 package syslog
 
